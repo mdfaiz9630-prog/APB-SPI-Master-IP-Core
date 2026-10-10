@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 APB Interface SPI Master IP Core RTL Design
 
 Overview
@@ -27,3 +28,7 @@ Tools
 * RTL simulation tools
 * Linting tools
 * Synthesis tools
+=======
+# APB-SPI-Master-IP-Core
+RTL Design and Verification of an APB Interface SPI Master IP Core using Verilog, featuring APB register access, SPI communication, configurable clock generation, and simulation-based functional verification.
+>>>>>>> 00a43159b24474b34c4698279bab9f99811d9629
