@@ -82,6 +82,7 @@ module tb_baud_rate_generator;
 
     initial
     begin
+       
 
         initialize;
         reset;
